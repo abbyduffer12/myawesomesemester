@@ -1,18 +1,13 @@
 ---
-course_number: 1
-course_code: "COMM XXXX"
-course_title: "Course Title 1"
-meeting_time: "MWF 10:10–11:00 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_number: 91247
+course_code: CMST 4714
+course_title: Communication Senior Seminar 
+meeting_time: MW 2:30pm - 3:45pm 
+location: MCB 233
+instructor_name: Carlos Evia Puerto 
+instructor_department: CLAHS 
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
 
 ## About this course
 
