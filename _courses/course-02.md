@@ -5,7 +5,7 @@ course_title: Intro Comm Research
 meeting_time: TR 9:30am - 10:45am 
 location: WHIT 349 
 instructor_name: Chelsea L. Woods 
-instructor_title: "Associate Professor"
+instructor_title: Associate Professor
 instructor_department: CLAHS
 ---
 
