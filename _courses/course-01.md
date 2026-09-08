@@ -5,6 +5,7 @@ course_title: Communication Senior Seminar
 meeting_time: MW 2:30pm - 3:45pm 
 location: MCB 233
 instructor_name: Carlos Evia Puerto 
+instructor_title: Professor 
 instructor_department: CLAHS 
 ---
 
