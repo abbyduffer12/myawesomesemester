@@ -1,12 +1,12 @@
 ---
 course_number: 1
 course_code: CMST 4714
-course_title: Communication Senior Seminar 
+course_title: Communication Senior Seminar The Human Communicator in the Era of AI 
 meeting_time: MW 2:30pm - 3:45pm 
 location: MCB 233
 instructor_name: Carlos Evia Puerto 
 instructor_title: Professor 
-instructor_department: CLAHS 
+instructor_department: School of Communication 
 ---
 
 
