@@ -1,18 +1,14 @@
 ---
 course_number: 3
-course_code: "COMM XXXX"
-course_title: "Course Title 3"
-meeting_time: "MWF 1:25–2:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Professor"
-instructor_department: "Department Name"
+course_code: JMC 4264 
+course_title: Social Media Theory & Practice 
+meeting_time: MW 4:00pm - 5:15pm 
+location: WMS 134
+instructor_name: Justin R. Combs 
+instructor_title: Advertising Professor of Practice
+instructor_department: CLAHS
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
 
 ## About this course
 
