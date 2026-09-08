@@ -1,18 +1,14 @@
 ---
 course_number: 4
-course_code: "COMM XXXX"
-course_title: "Course Title 4"
-meeting_time: "TR 2:00–3:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_code: MKTG 4154 
+course_title: Marketing Research 
+meeting_time: TR 12:30pm - 1:45pm 
+location: DDS 220 
+instructor_name: Steve C. Matuszak
+instructor_title: Assistant Professor of Practice
+instructor_department: Marketing 
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
 
 ## About this course
 
