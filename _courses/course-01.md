@@ -12,31 +12,22 @@ instructor_department: CLAHS
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+The Human Communicator in the Era of AI is a senior seminar class that focuses on the role communication plays in a world that is becoming influenced by artificial Intelligence. Throughout this course, we look at communication theories and how they can be applied to the AI generated communication. We also focus on what human communicators can bring to the workplace that artificial intelligence cannot replace. As a Communication major preparing to enter the professional world. I am interested in learning how I can use AI as a helpful tool while still maintaining my own ideas, voice, and communication skills.
 
 ## About Professor Name
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
-
+Professor Carlos Evia Puerto is a professor in Virginia Tech's School of Communication and also serves as the Associate Dean of Strategic Initiatives and Chief Technology Officer for the College of Liberal Arts and Human Sciences. His work brings together communication and technology, particularly looking at how artificial intelligence and structured content are changing the way people and organizations communicate. Much of his teaching and research examines the changing role of human communicators as technology continues to advance.
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Professor Evia's research focuses on the relationship between content, technology, and human communication. He studies areas such as structured authoring automation and artificial intelligence. More recently, his research has examined how AI systems interpret and change content originally created by humans and what communication skills people will need to remain valuable as AI becomes more common in professional environments. His work also includes DITA and Lightweight DITA, which are approaches to creating and managing structured digital content.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+- Technical Communication and the Discipline of Content: Considerations for Research, Training, and - - Career Readiness — co-authored with Rebekka Andersen
+- Content Operations from Start to Scale
+- Creating Intelligent Content with Lightweight DITA
+- Outsourcing Technical Communication — co-edited with Barry Thatcher
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor Evia also leads Virginia Tech's Tech for Humanity (TfH) initiative within the College of Liberal Arts and Human Sciences. The initiative helps incorporate technology education across CLAHS majors and encourages students and faculty to think critically about emerging technologies such as AI and automation. He also supervises technology specialists and works with university technology leadership to make sure the college's technology supports its teaching and research goals.
