@@ -1,5 +1,5 @@
 ---
-course_number: 91247
+course_number: 1
 course_code: CMST 4714
 course_title: Communication Senior Seminar 
 meeting_time: MW 2:30pm - 3:45pm 
