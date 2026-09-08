@@ -1,18 +1,14 @@
 ---
 course_number: 2
-course_code: "COMM XXXX"
-course_title: "Course Title 2"
-meeting_time: "TR 9:30–10:45 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
+course_code: COMM 2124
+course_title: Intro Comm Research 
+meeting_time: TR 9:30am - 10:45am 
+location: WHIT 349 
+instructor_name: Chelsea L. Woods 
 instructor_title: "Associate Professor"
-instructor_department: "Department Name"
+instructor_department: CLAHS
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
 
 ## About this course
 
