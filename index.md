@@ -4,7 +4,5 @@ title: Home
 ---
 
 <div class="home-intro">
-<p>Welcome! This is a template for a "My Awesome Semester" course-and-teacher site. Replace this
-introduction with your own &mdash; a couple of sentences about your major, this semester, and what
-your friends and family are about to learn about your professors.</p>
+<p>Welcome! Hi! My name is Abby Duffer I am a senior at Virginia Tech with a major in Communications with a minor in Digital Marketing Strategy. This semester I am taking classes that focus on communication, marketing, social media, research, and AI. This website gives my friends and family a look into what I'm learning and the professors who are helping me prepare for my future career.  </p>
 </div>
