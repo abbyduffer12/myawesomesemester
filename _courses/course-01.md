@@ -14,7 +14,7 @@ instructor_department: School of Communication
 
 The Human Communicator in the Era of AI is a senior seminar class that focuses on the role communication plays in a world that is becoming influenced by artificial Intelligence. Throughout this course, we look at communication theories and how they can be applied to the AI generated communication. We also focus on what human communicators can bring to the workplace that artificial intelligence cannot replace. As a Communication major preparing to enter the professional world. I am interested in learning how I can use AI as a helpful tool while still maintaining my own ideas, voice, and communication skills.
 
-## About Professor Name
+## About Professor Carlos Evia Puerto 
 
 Professor Carlos Evia Puerto is a professor in Virginia Tech's School of Communication and also serves as the Associate Dean of Strategic Initiatives and Chief Technology Officer for the College of Liberal Arts and Human Sciences. His work brings together communication and technology, particularly looking at how artificial intelligence and structured content are changing the way people and organizations communicate. Much of his teaching and research examines the changing role of human communicators as technology continues to advance.
 ### Research interests
