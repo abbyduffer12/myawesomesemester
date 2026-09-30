@@ -14,7 +14,7 @@ instructor_department: CLAHS
 
 Social Media Theory and Practice focuses on how organizations use social media as a professional communication tool. The course combines communication theory with current industry practices to help us understand how organizations plan, create, and evaluate both organic and paid social media content. We learn how different platforms are used for strategic communication and how to see whether an organization's social media strategy is effective. I chose this course because social media is an area of communication that I am very interested in and could see myself working with in my future career. I like that we are not just learning how to post on social media, but are looking at the strategy and theory behind why certain content works. I am hoping this class will help me better understand how brands can use social media to connect with their audiences and how I can apply those skills in a future marketing or communication position.
 
-## About Professor Name
+## About Professor Combs 
 
 Justin Combs is an Advertising Professor of Practice in Virginia Tech's School of Communication. Before becoming a professor at Virginia Tech, he gained professional experience working in advertising and strategy. He previously worked as a Senior Strategist for Blue Chip Worldwide in Chicago. He worked with brands including White Castle, Fisher, and Bausch + Lomb. He also served as a Director of Audiences for BCH Agency in Louisville. He worked with clients such as the Kentucky Lottery, Arby's and Bardstown Bourbon Company. At Virginia Tech, he frequently teaches courses including Advertising Ethics, Copywriting and Brand Storytelling, and Campaigns.
 
