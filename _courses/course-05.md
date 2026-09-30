@@ -14,7 +14,7 @@ instructor_department: Marketing
 
 Marketing Communications focuses on the creative, strategic, and tactical sides of developing integrated marketing communication plans. Instead of being taught like a traditional lecture course, the class is centered around a semester-long project where our team works as a marketing firm for a real professional client. This class is correlated with my marketing research class so I get to work with the same client in both. I am taking this course as part of my Digital Marketing Strategy minor, and I like that it gives me the opportunity to apply what I am learning to a real organization. Working directly with a client makes the assignments feel more connected to what I could experience in a future marketing career. Based on past classes if the work our group does for the client is good the client could hire us to work with them in the future. This class will give me great experience and a great resume boost. 
 
-## About Professor Name
+## About Professor Matuszak
 
 Steve Matuszak is an Assistant Professor of Practice in Virginia Tech's Marketing Department. His academic background combines business and communication. 
 
