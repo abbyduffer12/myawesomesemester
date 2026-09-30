@@ -14,7 +14,7 @@ instructor_department: Marketing
 
 Marketing Research focuses on how research can be used to provide relevant and accurate information for marketing decisions. The course teaches us how to identify a business problem, design an appropriate research study, collect and analyze data, and use the results to make recommendations. One of the things that makes this course stand out is that we get to apply what we learn to a real business client. I am taking this course as part of my Digital Marketing Strategy minor, but I also think the skills connect really well with my Communication major. I like being able to take research concepts and apply them to a real client.
 
-## About Professor Name
+## About Professor Matuszak
 
 Steve Matuszak is an Assistant Professor of Practice in Virginia Tech's Marketing Department. His academic background combines business and communication. 
 
