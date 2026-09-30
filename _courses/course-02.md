@@ -14,7 +14,7 @@ instructor_department: CLAHS
 
 Introduction to Communication Research focuses on how research is conducted and used within the field of communication. The course looks at how people interact with one another and with different forms of media while teaching us how to understand and evaluate the research behind those interactions. Throughout the semester, we learn about both qualitative and quantitative research, including topics such as secondary research, ethics, surveys, experiments, sampling, and data analysis. What I enjoy about this course is being able to take research concepts and actually apply them to real situations. Since I am also studying marketing, learning how to collect and analyze information is something I know I can use beyond this class.
 
-## About Professor Name
+## About Professor Woods 
 
 Dr. Chelsea Woods is an Associate Professor in Virginia Tech's School of Communication, where she teaches undergraduate and graduate courses in public relations. Before earning her Ph.D. and entering academia, she worked professionally in public relations in the nonprofit and hospitality industries. Her combination of professional experience and academic research gives her experience with both the practical and research sides of communication and public relations.
 
