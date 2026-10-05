@@ -8,7 +8,7 @@
 // ------------------------------------------------------------------
 
 :root {
---burgundy: #800020;
+ --burgundy: #800020;
   --burgundy-dark: #5c0017;
   --orange: #e87722;
   --orange-light: #fff0df;
@@ -16,211 +16,99 @@
   --ink: #35151d;
   --line: #ffa500;
   --white: #ffffff;
-  --shadow: 0 10px 24px rgba(128, 0, 32, 0.14);
 }
 
-* {
-  box-sizing: border-box;
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
+html,
 body {
-  margin: 0;
-  background: var(--white);
-  color: var(--ink);
-  font-family: "Trebuchet MS", Arial, sans-serif;
-  line-height: 1.65;
+  background: #ffffff !important;
+  color: #800020 !important;
 }
 
-header {
-  background: linear-gradient(135deg, var(--burgundy), var(--burgundy-dark));
-  color: var(--white);
-  border-bottom: 7px solid var(--orange);
-  box-shadow: 0 4px 14px rgba(128, 0, 32, 0.22);
-}
-
-header .wrapper,
-nav .wrapper,
-header > div,
-nav > div {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 1rem 1.5rem;
+header,
+nav {
+  background: #800020 !important;
+  color: #ffffff !important;
+  border-bottom: 6px solid #ffa500 !important;
 }
 
 header a,
 nav a {
-  color: var(--white);
-  text-decoration: none;
-  font-weight: bold;
-  transition: color 0.2s ease, transform 0.2s ease;
-}
-
-header a:hover,
-nav a:hover {
-  color: #ffd39f;
-  transform: translateY(-2px);
+  color: #ffffff !important;
 }
 
 main,
-.wrapper,
-.content {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 3rem 1.5rem;
+.content,
+.wrapper {
+  background: #ffffff !important;
+  color: #800020 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+li,
+.course,
+article,
+.card {
+  color: #800020 !important;
 }
 
 h1,
 h2,
 h3 {
-  color: var(--burgundy);
-  font-family: Georgia, serif;
-  line-height: 1.2;
-}
-
-h1 {
-  font-size: clamp(2.4rem, 6vw, 4.5rem);
-  text-align: center;
-  margin: 0 0 2rem;
-  text-shadow: 3px 3px 0 #ffd39f;
-}
-
-h2 {
-  display: inline-block;
-  margin-top: 2rem;
-  padding: 0.6rem 1rem;
-  border-left: 8px solid var(--orange);
-  border-radius: 0 14px 14px 0;
-  background: var(--orange-light);
-}
-
-p {
-  font-size: 1.08rem;
-}
-
-main > p:first-of-type,
-.intro,
-article,
-.card,
-.course {
-  background: var(--cream);
-  border: 3px solid var(--line);
-  border-radius: 22px;
-  padding: 1.4rem 1.6rem;
-  box-shadow: var(--shadow);
-}
-
-main > p:first-of-type {
-  position: relative;
-  overflow: hidden;
-}
-
-main > p:first-of-type::before {
-  content: "🦃 ✨";
-  display: block;
-  color: var(--orange);
-  font-size: 1.5rem;
-  margin-bottom: 0.4rem;
+  background: transparent !important;
+  text-shadow: none !important;
 }
 
 .course,
 article,
-.card {
-  margin: 1.2rem 0;
-  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+.card,
+main > p:first-of-type,
+.intro {
+  background: #fffaf5 !important;
+  color: #35151d !important;
+  border: 3px solid #ffa500 !important;
+  border-radius: 18px;
+  box-shadow: 0 8px 20px rgba(128, 0, 32, 0.14);
 }
 
-.course:hover,
-article:hover,
-.card:hover {
-  transform: translateY(-7px) rotate(-0.4deg);
-  border-color: var(--orange);
-  box-shadow: 0 16px 30px rgba(232, 119, 34, 0.24);
+.course p,
+article p,
+.card p,
+.course li,
+article li,
+.card li {
+  color: #35151d !important;
 }
 
 .course a,
 article a,
 .card a {
-  color: var(--burgundy);
-  font-weight: bold;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 3px;
+  color: #800020 !important;
 }
 
 .course a:hover,
 article a:hover,
 .card a:hover {
-  color: var(--orange);
+  color: #e87722 !important;
 }
 
 button,
 .button,
 input[type="submit"] {
-  display: inline-block;
-  border: 3px solid var(--burgundy);
-  border-radius: 999px;
-  background: var(--orange);
-  color: var(--white);
-  padding: 0.75rem 1.25rem;
-  font-weight: bold;
-  text-decoration: none;
-  cursor: pointer;
-  box-shadow: 0 5px 0 var(--burgundy);
-  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
-}
-
-button:hover,
-.button:hover,
-input[type="submit"]:hover {
-  background: var(--burgundy);
-  color: var(--white);
-  transform: translateY(2px);
-  box-shadow: 0 2px 0 var(--burgundy-dark);
-}
-
-img {
-  max-width: 100%;
-  border: 5px solid var(--orange);
-  border-radius: 22px;
-  box-shadow: var(--shadow);
+  background: #e87722 !important;
+  color: #ffffff !important;
+  border: 3px solid #800020 !important;
 }
 
 footer {
-  margin-top: 3rem;
-  padding: 2rem 1.5rem;
-  text-align: center;
-  background: var(--burgundy);
-  color: var(--white);
-  border-top: 8px solid var(--orange);
+  background: #800020 !important;
+  color: #ffffff !important;
+  border-top: 8px solid #ffa500 !important;
 }
 
 footer a {
-  color: #ffd39f;
+  color: #ffd39f !important;
 }
-
-@media (max-width: 700px) {
-  main,
-  .wrapper,
-  .content {
-    padding: 2rem 1rem;
-  }
-
-  nav a {
-    display: inline-block;
-    margin: 0.35rem;
-  }
-
-  h1 {
-    font-size: 2.6rem;
-  }
-
-  .course,
-  article,
-  .card {
-    padding: 1rem;
-  }
-}
-nebulaONE logoPowered by cloudforce
