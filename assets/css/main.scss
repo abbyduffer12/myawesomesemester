@@ -45,8 +45,12 @@ main,
 
 h1,
 h2,
-h3,
-h4,
+h3,h1,
+h2,
+h3 {
+  background: transparent !important;
+  text-shadow: none !important;
+}h4,
 p,
 li,
 .course,
