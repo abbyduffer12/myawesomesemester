@@ -36,83 +36,36 @@ nav a {
   color: #ffffff !important;
 }
 
+body,
 main,
 .content,
-.wrapper {
-  background: #ffffff !important;
-  color: #800020 !important;
-}
-
+.wrapper,
 h1,
 h2,
-h3,h1,
-h2,
-h3 {
-  background: transparent !important;
-  text-shadow: none !important;
-}h4,
+h3,
+h4,
 p,
 li,
 .course,
 article,
-.card {
-  color: #800020 !important;
-}
-
-h1,
-h2,
-h3 {
-  background: transparent !important;
-  text-shadow: none !important;
-}
-
-.course,
-article,
 .card,
-main > p:first-of-type,
-.intro {
-  background: #fffaf5 !important;
-  color: #35151d !important;
-  border: 3px solid #ffa500 !important;
-  border-radius: 18px;
-  box-shadow: 0 8px 20px rgba(128, 0, 32, 0.14);
-}
-
 .course p,
 article p,
-.card p,
-.course li,
-article li,
-.card li {
-  color: #35151d !important;
-}
-
-.course a,
-article a,
-.card a {
-  color: #800020 !important;
-}
-
-.course a:hover,
-article a:hover,
-.card a:hover {
+.card p {
   color: #e87722 !important;
 }
 
-button,
-.button,
-input[type="submit"] {
-  background: #e87722 !important;
-  color: #ffffff !important;
-  border: 3px solid #800020 !important;
+header a,
+nav a,
+footer a,
+.course a,
+article a,
+.card a {
+  color: #e87722 !important;
 }
 
+header,
+nav,
 footer {
-  background: #800020 !important;
-  color: #ffffff !important;
-  border-top: 8px solid #ffa500 !important;
-}
-
-footer a {
-  color: #ffd39f !important;
+  color: #e87722 !important;
 }
